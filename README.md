@@ -1,3 +1,6 @@
+## <a href="https://codeberg.org/47-wizard/droid.config">moved to codeberg <i>on Oct 18th 2026</i></a>
+
+<s>
 <h3><a href="https://github.com/MM2-0/Kvaesitso">kvaesitso</a><i>/ "A search-focused Android launcher"</i></h3>
 
 Art: https://x.com/mikkr_01/status/2080913621744533864
@@ -19,4 +22,4 @@ https://x.com/tvchany_/status/2093670009033629701
 <img width="30%" src="https://github.com/user-attachments/assets/6369d8a6-a491-4d23-9ad9-7e402289de2c" />
 <img width="30%" src="https://github.com/user-attachments/assets/80d45ef9-1529-4164-a5d6-f1de07b304f7" />
 <img width="30%" src="https://github.com/user-attachments/assets/6c916d1b-1842-4056-9981-8c882c9257f7" />
-
+</s>
